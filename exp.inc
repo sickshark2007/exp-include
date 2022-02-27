@@ -2,7 +2,7 @@
 
 	Exp.inc
 	 - Bem essa 'include' não é das melhores, mais fiz com vontade.
-	 - Feito por: Leonsx
+	 - Feito por: skyMateus
 
 	Exp:
 	 TEXT_SIZE_DEFAULT (float) [pos x - "string"] "default null"
